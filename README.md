@@ -4,8 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 SIMPLE ANGULAR PROJECT TO DEMOSTRATE 
 
-- Register user page functionaly
-- Uses WebAPI dotnet core project as backend API
+- Register and Login user page functionaly
+- Uses WebAPI dotnet core project as backend API with JWT authentication
+- Must run the WebAPI project to work
 
 
 ## Development server
