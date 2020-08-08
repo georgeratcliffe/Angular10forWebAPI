@@ -6,6 +6,7 @@ SIMPLE ANGULAR PROJECT TO DEMOSTRATE
 
 - Register and Login user page functionaly
 - Uses WebAPI dotnet core project as backend API with JWT authentication
+- Uses role base authorization
 - Must run the WebAPI project to work
 
 
